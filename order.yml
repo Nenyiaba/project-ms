@@ -1,2 +1,11 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0-prod"
+details: 
+  name: "Order Service"
+  description: "Simple api to manage ordering for a restaurant"
 server:
   port: 8083
