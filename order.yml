@@ -6,6 +6,6 @@ build:
   version: "1.0-prod"
 details: 
   name: "Order Service"
-  description: "Simple api to manage ordering for a restaurant"
+  description: "Simple api to manage ordering for a restaurant updated"
 server:
   port: 8083
