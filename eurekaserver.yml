@@ -3,6 +3,7 @@ server:
 
 eureka:
   instance:
+  non-secure-port: 8070
     hostname: localhost
   client:
     fetchRegistry: false
