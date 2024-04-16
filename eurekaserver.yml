@@ -1,5 +1,7 @@
 server:
   port: 8070
+  profile: 
+  active: "prod"
 eureka:
   instance:
     hostname: localhost
