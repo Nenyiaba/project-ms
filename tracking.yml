@@ -1,2 +1,11 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: "1.0-prod"
+details: 
+  name: "Tracking Service"
+  description: "Simple api to manage tracking orders"
 server:
   port: 8084
