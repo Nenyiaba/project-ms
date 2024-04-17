@@ -4,6 +4,7 @@ eureka:
   instance:
     hostname: localhost
   client:
+    enabled: true
     fetchRegistry: false
     registerWithEureka: false
     serviceUrl:
