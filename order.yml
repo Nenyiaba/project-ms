@@ -8,4 +8,4 @@ details:
   name: "Order Service"
   description: "Simple api to manage ordering for a restaurant updated"
 server:
-  port: 8083
+  port: 8087
