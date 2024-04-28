@@ -8,4 +8,4 @@ details:
   name: "Tracking Service"
   description: "Simple api to manage tracking orders"
 server:
-  port: 8085
+  port: 8084
